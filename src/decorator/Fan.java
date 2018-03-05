@@ -10,7 +10,6 @@ public class Fan extends ExtraComponent {
     }
 
     @Override
-
     public String getName() {
         return house.getName()+", 1 Fan";
     }
