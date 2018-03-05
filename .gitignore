@@ -1,2 +1,16 @@
 
 \.idea/workspace\.xml
+
+out/production/DecoratorPattern/decorator/Door\.class
+
+out/production/DecoratorPattern/decorator/ExtraComponent\.class
+
+out/production/DecoratorPattern/decorator/Fan\.class
+
+out/production/DecoratorPattern/house_type/LargeHouse\.class
+
+out/production/DecoratorPattern/house_type/SmallHouse\.class
+
+out/production/DecoratorPattern/house/House\.class
+
+out/production/DecoratorPattern/Main\.class
